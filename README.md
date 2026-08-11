@@ -6,7 +6,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-006400?style=for-the-badge)](https://xgboost.readthedocs.io)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](LICENSE)
 
 **An end-to-end Machine Learning pipeline for predicting residential and commercial property market values across Philadelphia's 521,491-property, $139.49B portfolio — built to support the Office of Property Assessment (OPA) in accelerating and standardising the city-wide assessment cycle.**
 
